@@ -25,39 +25,6 @@ Users can book multiple seats, and the system automatically calculates the total
 - Check seat availability
 - Handle invalid menu choices
 
-## OOP Concepts Used
-
-### 1. Encapsulation
-Private attributes are used in the `Flight` and `Booking` classes. Getters provide controlled access to these attributes.
-
-### 2. Inheritance
-The `FlightBooking` class extends the abstract `Booking` class using the `extends` keyword.
-
-### 3. Polymorphism
-Method overriding is used in the `FlightBooking` class to provide implementations for the abstract methods inherited from `Booking`.
-
-### 4. Abstraction
-The `Booking` class is declared as an abstract class and contains abstract methods such as `calculateTotalFare()` and `displayBooking()`.
-
-## Other Java Concepts Practiced
-
-- Classes and objects
-- Constructors
-- Getters
-- `super()` keyword
-- `@Override` annotation
-- Abstract classes and methods
-- `ArrayList`
-- `HashMap`
-- `Scanner`
-- `switch` statements
-- `while` loops
-- Enhanced `for` loops
-- Conditional statements
-- Exception handling
-- `Integer.parseInt()`
-- `NumberFormatException`
-
 ## How It Works
 
 ### 1. View Flight Schedules
