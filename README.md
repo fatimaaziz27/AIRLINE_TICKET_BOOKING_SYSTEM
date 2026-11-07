@@ -25,11 +25,6 @@ Users can book multiple seats, and the system automatically calculates the total
 - Check seat availability
 - Handle invalid menu choices
 
-## Technologies Used
-
-- Java
-- Java Collections Framework
-
 ## OOP Concepts Used
 
 ### 1. Encapsulation
