@@ -1,13 +1,3 @@
-
-
-
-
-
-
-
-
-
-
 import java.util.*;
 
 // Main class
