@@ -24,9 +24,3 @@ Users can book multiple seats, and the system automatically calculates the total
 - Validate flight IDs
 - Check seat availability
 - Handle invalid menu choices
-
-## Author
-
-Fatima Aziz
-
-GitHub: [fatimaaziz27](https://github.com/fatimaaziz27)
